@@ -1,6 +1,4 @@
 # remkeeper
-C++
-//差之毫厘，失之千里，未考虑分钟为个位数的情况2个点一直过不了，卡了一个小时
 #include<cstdio>
 using namespace std;
 int main()
