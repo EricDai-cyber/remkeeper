@@ -1,4 +1,6 @@
 # remkeeper
+c++
+洛谷上课迟到问题，分钟未考虑个位数情况，卡了一小时，人都麻了
 #include<cstdio>
 using namespace std;
 int main()
